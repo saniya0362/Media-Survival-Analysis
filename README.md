@@ -70,7 +70,7 @@ Between 2019 and 2024, Bharat Herald’s print circulation dropped by over **50%
 ## 📂 Files
 
 - [Data Cleaning Scripts](data-cleaning.ipynb)  
-- [SQL Queries](sql/Business Requests.sql) 
+- [SQL Queries](sql/BusinessRequests.sql) 
 - [Report Overview](docs/overview.md) 
 
 ---
