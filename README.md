@@ -83,7 +83,7 @@ You can view the interactive Power BI dashboard [here](https://app.powerbi.com/v
 
 ## 📌 Presentation
 
-You can view the presentation [here](INSERT_PRESENTATION_LINK).
+You can view the presentation [here](https://youtu.be/H1B5YFNUn98).
 
 ---
 
