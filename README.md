@@ -75,9 +75,9 @@ Between 2019 and 2024, Bharat Herald’s print circulation dropped by over **50%
 
 ---
 
-## 📌 Dashboard
+## 📌 Report
 
-You can view the interactive Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZjBjODc2ZmUtMTg3OS00MmUxLThlOWUtNmY0ZmZiZGI2MDg0IiwidCI6ImQyNzJiNzg4LTU4YzctNGM0NS1hMWRmLTk3ODYyYzE3ODkyOSJ9).
+You can view the interactive Power BI Report [here](https://app.powerbi.com/view?r=eyJrIjoiZjBjODc2ZmUtMTg3OS00MmUxLThlOWUtNmY0ZmZiZGI2MDg0IiwidCI6ImQyNzJiNzg4LTU4YzctNGM0NS1hMWRmLTk3ODYyYzE3ODkyOSJ9).
 
 ---
 
